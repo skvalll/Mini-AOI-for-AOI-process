@@ -1,0 +1,2 @@
+is_valid,reason,mean_gray,median_gray,p10_gray,p90_gray,dynamic_range,near_black_ratio
+True,,46.828162,43.000000,31.000000,66.000000,35.000000,0.000025

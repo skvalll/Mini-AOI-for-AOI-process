@@ -1,0 +1,4 @@
+index,name,expected_color,status,green_ratio,black_ratio,smt_resistor_ratio,max_smt_resistor_area_ratio,smt_shape_ok,orange_ratio,white_ratio,low_sat_bright_ratio,gray_std,laplacian_var,resistor_ng_score,resistor_ng_reasons,outer_bbox,inner_bbox,core_bbox,feature_bbox
+53,D3,orange,NG,0.000000,0.000000,0.804545,0.702273,,0.000000,0.993182,0.993182,38.529692,3648.540826,,,"(236, 247, 28, 54)","(240, 263, 20, 22)","(240, 263, 20, 22)","(240, 263, 20, 22)"
+57,Q5,black,NG,0.000000,0.000000,0.771605,0.666667,,0.000000,0.916667,0.910494,33.086903,3219.353757,,,"(108, 318, 30, 28)","(114, 323, 18, 18)","(114, 323, 18, 18)","(114, 323, 18, 18)"
+61,U1,black,NG,0.000000,0.026921,0.897959,0.846287,,0.000000,0.986974,0.984802,28.209525,1339.676370,,,"(237, 317, 121, 67)","(273, 327, 49, 47)","(273, 327, 49, 47)","(273, 327, 49, 47)"
